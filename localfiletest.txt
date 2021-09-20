@@ -11,3 +11,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 This is my additional text and I am adding it from the git remote directory. 
+
+
+This is my main branch and its file
